@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
+﻿using AutoMapperValueResolver.Models;
 using System.Web.Mvc;
-using GuideAutoMapper.Models;
 
-namespace GuideAutoMapper.Controllers
+namespace AutoMapperValueResolver.Controllers
 {
     public class HomeController : Controller
     {
